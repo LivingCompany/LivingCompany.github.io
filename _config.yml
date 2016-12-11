@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: My Portfolio
+title: Living Company - Blog
 email: livingcomp@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
   Living Company, desarrollo de software simple, elegente y efectivo.
