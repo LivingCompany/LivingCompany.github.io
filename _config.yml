@@ -7,13 +7,13 @@
 
 # Site settings
 title: My Portfolio
-email: your-email@domain.com
+email: livingcomp@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  Jannik Richter, jannik811@gmail.com
+  Living Company, desarrollo de software simple, elegente y efectivo.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: livingcomp
+github_username:  LivingCompany
 
 # Build settings
 markdown: kramdown
