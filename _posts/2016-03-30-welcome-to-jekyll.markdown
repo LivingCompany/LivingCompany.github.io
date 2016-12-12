@@ -1,28 +1,23 @@
 ---
+title: Hola Mundo!
 layout: post
-title:  "Welcome to Jekyll!"
-color:  teal
-width:   6 
-height:  1
-date:   2016-03-30 11:31:49 +0200
-categories: jekyll update
+color: teal
+width: 6
+height: 1
+date: '2016-12-11 03:31:49'
+categories: Blog
+img: hello-world.gif
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Luego de muchas pruebas, sitos, framewors y servicios he decidio establecer el sitio de referencia para mis proyectos en GitHub de la mano del agradable mini-framework Jekyl.
+[Jekyll](https://jekyllrb.com) es un pequeño entorno el cual cumple con las necesidades básicas de un blog y hospedado en GitHub.
 
-Jekyll also offers powerful support for code snippets:
+Estaré posteando mis avances en los proyectos que estoy desarrollando.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+De momento estaré priorizando el desarrollo de UniverCell para hacer unas pruebas en producción y posteriormente lanzar las primeras betas públicas.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Gracias por tu visita estaré muy seguido por estos lados.!
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Hasta la proxima!
+
+{{ post.img }}

@@ -1,15 +1,11 @@
 ---
+title: Nosotros
 layout: page
-title: About
-permalink: /about/
+permalink: "/about/"
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Living Company es un pequeño proyecto creado por una sola persona, en la actualidad el objetivo es crear software en función de beneficiar a la comunidad, siempre pensando en la elegancia y simplesa del producto.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+La visión en Living Company es que los productos sean fáciles de usar, pensamos que la tecnolgía tiene el fin de facilitar el trabajo al humano, esto a su vez promueve una mejora en la eficiencia del tiempo y el trabajo.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Contáctate con nosotros, nos gustaría mucho escuchar tu oponión.

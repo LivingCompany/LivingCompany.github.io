@@ -5,9 +5,10 @@ layout: default
 <div class="home">
   
   
- <div class="col col-12">
+ <div class="col col-12" style="max-h">
       <div class="col col-3">
-          <div class="block glass"  style="background-image:url(assets/avatar.jpg)">      
+          <div class="block glass">
+          <img src="/assets/logo.png" class="responsive-img" alt="Logo">      
           </div>
       </div>
       <div class="col col-9">
@@ -36,7 +37,7 @@ layout: default
   <div class="col col-9">
     {% for post in site.posts %}
       <div class="col col-{{post.width}}">
-        <div class="block {{post.color}}">
+        <div class="block" style="background-image:url(assets/{{post.img}})">
             <div class="block-body height-{{post.height}}">
                 <span class="post-meta white-text">{{ post.date | date: "%b %-d, %Y" }}</span>
 
